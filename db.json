@@ -1,6 +1,5 @@
 {
-  "code": "0",
-  "offer":{
+"offer":[{
     "id": "",
     "card_id": 18473,
     "name": "Offer No.21",
@@ -39,5 +38,5 @@
     "qr_id": "",
     "status": 1
    
-}
+}]
 }
